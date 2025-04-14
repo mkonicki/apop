@@ -8,4 +8,4 @@ A small library of patterns, designs and concepts which I found in my career and
 
 ## Software architectures
 1. [Kernel services](./system-designs/kernel-services.md)
-
+2. [Modular monolith](./system-designs/modular-monolith/description.md)
