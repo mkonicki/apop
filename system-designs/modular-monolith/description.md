@@ -6,21 +6,21 @@ One service with a module separation within the same service proper services are
 - Team size < 10 people
 - Similar technology competences in the team
 - Average engineer professional experience lower than 5 years 
-- Estimated number of actions per day < 1m
+- Estimated number of actions per day < 1 milion
 
 ## Pros & Cons
 ### Pros
 - Low infrastructure costs 
 - Only to maintain one service
 - Easily to make a cutoffs within boundaries without an impact on bigger scope of the project 
-- Boundaries can be easily separated with 
+- Boundaries can be easily separated in application
 
 ### Cons
 - Codebase grows logarithmically 
-- Strongly tightened references  
+- Strongly tightened references 
 
 ## Example usages
-For a new systems which are not highly
+For a new systems which are not highly used and needs to be adjusted to business needs with every sprint.
 
 ![image](./Example%20usage.png) 
 
