@@ -1,6 +1,4 @@
 # Kernel Services
-[[_TOC_]]
-
 Main application is connected with other part of IT infrastructure with an small decomposable components. 
 
 ![image](./Kernel%20based.png)
